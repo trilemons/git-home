@@ -1,8 +1,5 @@
 hello git!!
 hello git!!
-hello git!!2222222
-hello git!!
-hello git!!
 hello git!!
 hello git!!
 hello git!!8888888
@@ -11,5 +8,5 @@ hello git!!
 hello git!!
 hello git!!
 hello git!!
-hello git!!
+hello git!!7777777
 hello git!!
